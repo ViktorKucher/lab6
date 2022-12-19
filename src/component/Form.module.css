@@ -1,0 +1,22 @@
+.form {
+   width: 700px;
+    border: 1px solid red;
+}
+.marsh{
+    display: flex;
+}
+.сity{
+    display: flex;
+}
+.сity div{
+    margin: 5px;
+}
+.type{
+    display: flex;
+    flex-wrap: wrap;
+}
+.type input{
+    display: inline-block;
+    width: 100px;
+    margin: 0 5px 5px 0;
+}
